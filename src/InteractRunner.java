@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 /**
-    Класс для запуска калькулятора. Поддерживает ввод пользователя.
-*/
+ * РљР»Р°СЃСЃ РґР»СЏ Р·Р°РїСѓСЃРєР° РєР°Р»СЊРєСѓР»СЏС‚РѕСЂР°. РџРѕРґРґРµСЂР¶РёРІР°РµС‚ РІРІРѕРґ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.
+ */
 public class InteractRunner {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);

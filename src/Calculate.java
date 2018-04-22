@@ -1,3 +1,6 @@
+/**
+ * Класс для вычисления суммы двух чисел. Числа беруться из входящего массива.
+ */
 public class Calculate {
 	public static void main(String[] args) {
 		System.out.println("Calculate...");
